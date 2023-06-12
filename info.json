@@ -1,0 +1,21 @@
+[
+    {
+        "School": "Boston University",
+        "Major": "Computer Science",
+        "Type": "MS",
+        "Year": 2024
+    },
+    {
+        "School": "National Central University",
+        "Major": "Earth Science",
+        "Type": "BS",
+        "Year": 2021
+    },
+    {
+        "School": "National Central University",
+        "Major": "Geophysics",
+        "Type": "BS",
+        "Year": 2021
+    }
+
+]
